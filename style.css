@@ -1,0 +1,716 @@
+* {
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body {
+ font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+ 
+ max-width:1500px;
+ margin: 0 auto!important;
+}
+p {
+font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+font-size: 23px;
+
+
+}
+.aktivni{
+background-color: rgba(206,105,43,0.7);
+
+
+}
+.prihlaseni{
+
+
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.pridatakci{
+    margin-left: auto;
+    margin-right: auto;
+   
+    width: 60%;
+    padding: 10px;
+      
+}
+
+.linka{
+
+     border-top: 4px groove black;
+}
+ .mySlides {
+ display: none;
+/* max-height:auto;       */
+    
+    }
+img {vertical-align: middle!important;}
+
+/* Slideshow container */
+.slideshow-container {
+  
+  position: relative;
+  margin: 0 auto;
+}
+
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.8s;
+  animation-name: fade;
+  animation-duration: 1.8s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .2} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .2} 
+  to {opacity: 1}
+}
+
+
+h2 a:link,a:visited {text-decoration: none!important;}
+
+
+
+.sirka{
+text-align: center;
+font-size: 25px;
+font-family: Helvetica;
+padding-left:50px;
+padding-right:50px;
+margin: 0 auto;
+}
+.osmdesat{
+display:block;
+text-align:justify;
+margin: 0 auto!important;
+width:70%;
+min-width:200px;
+
+}
+
+
+input[type=text], select, textarea {
+    max-width: 650px;
+    width:60%;
+    padding: 12px;
+    border: 2px solid rgb(86,33,29);
+    border-radius: 1px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical; 
+}
+input[type=file] {
+    max-width: 650px;
+    width:60%;
+    padding: 12px;
+   
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical; 
+}
+table{
+margin-left: 0 auto;
+margin-right: 0 auto;
+}
+label {
+ display: inline-block;
+ vertical-align: middle;
+}
+
+button{
+
+    background-color: white; /* Green */
+    border: 2px solid rgb(86,33,29);
+    color: rgb(86,33,29);
+    padding: 13px 20px;
+    text-align: center;
+    text-decoration: none;
+    width: 22%;
+      
+}
+
+input[type=textarea]{
+
+  max-width: 650px;
+    width:60%;
+    padding: 12px;
+    border: 2px solid rgb(86,33,29);
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px; 
+   
+    }
+input[type=password]{
+ max-width: 650px;
+    width:60%;
+    padding: 12px;
+    border: 2px solid rgb(86,33,29);
+    border-radius: 1px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical;}
+input[type=submit] {
+    max-width:650px;
+    width:80%;
+    background-color: rgb(86,33,29);
+    color: white;
+    font-family:Helvetica;
+    font-size:22px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+ 
+
+input[type=submit]:hover {
+    background-color:rgb(206,105,43);
+    color:rgb(86,33,29);
+}
+
+/* Add a background color and some padding around the form */
+.formsforcontact {
+
+    
+     margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.onas p {
+text-align: center;
+font-size: 25px;
+font-family: Helvetica;
+padding-left:50px;
+padding-right:50px;
+}
+h1{
+color: rgb(86,33,29);
+font-size:35px;
+padding: 20px;
+text-align: center;
+margin: 0 auto;
+}
+h2{
+font-size:26px;
+padding:5px;
+text-align:center;
+
+}
+h4{
+text-align:center;
+font-size:23px;
+padding:3px;
+color:rgb(86,33,29);
+}
+h5{
+text-align: center;
+font-size:20px;
+padding:2px;
+color:rgb(86,33,29);}
+
+.grid div{
+position:relative;
+width:100%;
+margin: 0  auto!important;
+display:grid;
+}
+
+.facebook{
+  
+ height:55px;
+  margin: 10px;
+
+}
+.icon{
+height:50px;
+
+}
+.formtitulek{
+width:70%;
+padding: 10px;
+color: rgb(86,33,29);
+ font-weight: bold;
+text-align: center;
+font-size: 20px;
+margin: 0 auto!important;
+
+}
+.header{
+
+ height:550px;
+}
+
+.onas{
+padding-top:30px;
+padding-bottom:15px;
+height:auto;
+}
+
+.parallax{
+    background-image: url("/obrazky/estertucan.jpg");      
+    height: 250px; 
+    padding-top: 10px;     
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ .parallax2{   
+    background-image: url("prostor.jpg");        
+    height: 250px; 
+    padding-top: 10px;
+    padding-bottom:10px;     
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.udalost{
+background-color:white;
+height:auto;
+padding: 40px;
+}
+
+.akce{
+    padding: 10px; 
+    width:900px;  
+}
+
+.akce p{
+margin-top: 20px;
+margin-left: 30px;
+margin-right: 30px;
+text-align: justify;
+ padding:10px;
+    
+}
+.hodiny{
+   margin-left: 0 auto;
+  margin-right: 0 auto;
+  width: 40%;
+ 
+
+}
+.hodiny tr{
+color: rgb(86,33,29);
+
+
+}
+.imaa{
+float:right;
+width:50%;
+
+min-width:300px;
+margin-left:25px;
+margin-bottom:10px;
+}
+
+
+.imaaupravit{
+max-width:250px!important;
+
+}
+.mid {
+ margin: auto!important;
+
+}
+.imaslide{
+display:block;
+margin: 0 auto!important;
+width: 40%;
+padding:20px;
+
+}        
+.threecol{
+ padding-top:15px;
+ padding-bottom:15px;
+ }
+.footer{
+width:100%!important;
+background-color:rgb(86,33,29);
+height: auto;
+}
+
+.map{
+padding: 10px 10px 0px 10px;
+position: relative;
+height:100%;
+width:100%;
+}
+
+.mapa{
+width:98%;
+min-width:220px;
+height:90%;
+min-height:180px;
+margin-left: 10px;
+margin-bottom:10px;
+margin-top:10px;
+margin-right:10px;
+}
+.adresa{     
+text-align:center;
+}
+
+
+.adresa p{
+padding:10px;
+font-size:26px;
+}
+
+.login{
+text-align: center;
+padding-top:15px;
+}
+
+a.odkaz:link  {text-decoration:none;color:rgb(86,33,29);}
+a.odkaz:visited{text-decoration:none;color:rgb(86,33,29);}
+a.odkaz2:link  {text-decoration:none;color:rgb(86,33,29);}
+a.odkaz2:visited{text-decoration:none;color:rgb(86,33,29);}
+
+.odkaz{
+ text-align: left;
+ padding-left: 20px;
+
+}
+
+
+
+.odkaz2{
+ text-align: center;
+}
+
+.login a:link,a:visited{
+text-decoration:none;
+color:white;
+}
+
+.white{
+color:white;
+}
+
+.facebook{
+
+    position: absolute;
+    bottom: 10px;
+    right: 16px;
+    height: 40px;
+    width: 40px;
+}
+.facebookclass a{
+  display:block;
+   width:50px;
+   height:50px;
+   position:absolute;
+   bottom: 10px;
+    right: 16px;
+
+}
+.logo{
+border-radius:50%;
+width:100%;
+padding: 10px!important;
+display:block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+ 
+}
+.logoclass a {
+   display:block;
+   width:300px;
+   height:300px;
+   position:relative;
+   margin:0 auto!important;
+}
+
+.obdellogo{
+width:80%;
+border-radius:12%;
+padding: 10px 10px 10px 10px;
+
+
+}
+.fotky{
+width:100%;
+   }
+.fotkyctyricet{
+width:40%;
+display:block;
+text-align:justify;
+margin: 0 auto!important;
+
+min-width:200px;
+}
+ 
+.background{
+background-color:   rgba(86,33,29,0.7);   
+background-size: 100% 100%;
+width:100%;
+height:550px!important;  
+}
+.hero-image {
+    background-image: url("obrazky/tuccup.jpg");            
+    width: 100%;                  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+ul {
+  
+    list-style-type: none;
+    margin-top:  10px  ;
+    margin-left: auto!important;
+    margin-right:auto!important;
+    padding-top:0px!important;
+  
+    padding-left: 10px;
+    padding-right:10px;
+    overflow: hidden;
+ 
+}
+
+li {
+    float: left;
+  
+}
+li a {
+    display:block;
+    color: white ;
+	   font-size: 34px;
+    text-align: center;
+    padding: 15px 15px;
+    text-decoration: none;
+}
+
+
+.menu a:hover {
+  background-color:white;
+	color: rgb(86,33,29);
+}
+
+@media (max-width: 800px){
+ li{float:none;}
+ li a{font-size:25px; text-align: center;width:100%;padding: 10px 0px 10px 0px;}
+.logo{width:28%;
+min-width:200px;}
+.onas p{font-size:20px;}
+
+input[type=text], select, textarea,input[type=submit]{
+width:100%;}
+
+.formtitulek{
+width:100%;
+}
+}
+
+.bariste{
+width:100%;
+padding: 15px 15px 15px 15px;
+margin: 0 auto!important;  
+
+
+}
+.fotobar{
+height:400px;
+padding: 15px 0px 15px 0px; 
+margin: 0 auto!important;
+ }
+
+.button {        
+  border-radius: 4px;
+  background-color: rgb(206,105,43);
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px 0px 20px 0;
+  width: 260px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 0 auto!important;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+#myDIV {    
+    width: 60%;
+    padding: 50px ;
+    text-align: center;
+    background-color: rgb(92,141,88);
+    margin: 0 auto!important;
+   
+    display:none;
+    color:white;
+    font-size:20px;
+    font-weight:500;
+}
+#myDIV2 { 
+    width: 60%;
+    padding: 50px;
+    text-align: center;
+    background-color:  rgb(92,141,88);
+      margin: 0 auto!important;
+    display:none;
+    color:white;
+    font-size:20px;
+     font-weight:500;
+    }
+#myDIV3 {
+    width: 60%;
+    padding: 50px 0;
+    text-align: center;
+    background-color:  rgb(92,141,88);
+      margin: 0 auto!important;
+    display:none;
+    color:white;
+    font-size:20px;
+    font-weight:500;
+}
+#myDIV4 {
+    width: 60%;
+    padding: 50px 0;
+    text-align: center;
+    background-color:  rgb(92,141,88);
+      margin: 0 auto!important;
+    display:none;
+    color:white;
+    font-size:20px;
+    font-weight:500;
+}
+.backgroundnabidky{
+width:100%;
+height:auto;
+max-height:300px;
+background-color:rgba(86,33,29,0.8);
+margin: 0 auto!important;
+padding-top:30px;
+padding-bottom:30px;
+
+}
+.backgroundnabidky p{
+font-size:24px;
+text-align:center;
+padding-top:10px;
+padding-bottom:10px;
+
+}
+.backgroundnabidky a:link{
+text-decoration:none;
+
+}
+
+.grid-container {
+  height: auto;   
+  display: grid;
+  grid-template-columns: auto auto auto;
+   grid-gap: 15px; 
+  background-color:rgb(240,240,240);
+  padding: 10px; 
+}
+
+.grid-container > div {
+  height:300px;
+  width:100%;
+  background-color: rgba(206,105,43,0.1);
+  color:rgb(86,33,29);    
+  text-align: center;
+  font-size: 30px;
+}
+.grid-container p{
+  font-size:22px;
+  text-align:center;      
+
+}
+@media screen and (max-width: 750px) {
+    .grid-container {
+        display: none;
+       grid-template-columns:   none;
+    }   }
+    
+    
+@media screen and (max-width: 950px) {    
+    .grid-container-footer{
+  width: 100%!important;
+   grid-template-columns: none!important;  
+  
+}  .obdellogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+} 
+ .akce p{
+
+margin: 0;
+padding: 0px;    
+}
+.hodiny{
+width: 90%;
+font-size: 15px;
+}
+ }
+
+
+
+
+.grid-container-footer{    
+ 
+  display:grid;
+   grid-template-columns:   60% 20% 20%;
+ 
+      }
+      
+       
+      
+      
+.obdellogo{
+
+    margin: 0 auto!important;
+    vertical-align:middle!important;
+    width:70%;
+    min-width:240px;
+    padding: 10px;
+    }
+
+
+

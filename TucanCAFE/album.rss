@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+    <channel>
+        <title>TucanCAFÉ</title>
+   	<link>.</link>
+        <generator>jAlbum 15.4</generator>
+   		<description></description>
+        <jalbum:absolutePath></jalbum:absolutePath>
+        <item>
+            <title>Tucan20</title>
+            <link>slides/Tucan20.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan20.jpg" width="300" height="138"/>
+            <media:content type="image/jpeg" url="slides/Tucan20.jpg" width="959" height="440"/>
+            <guid isPermaLink="false">slides/Tucan20.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan12</title>
+            <link>slides/Tucan12.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan12.jpg" width="300" height="168"/>
+            <media:content type="image/jpeg" url="slides/Tucan12.jpg" width="960" height="539"/>
+            <guid isPermaLink="false">slides/Tucan12.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan22</title>
+            <link>slides/Tucan22.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan22.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan22.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan22.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan8</title>
+            <link>slides/Tucan8.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan8.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan8.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 18:17:29 +0200" cameraMake="Canon" cameraModel="Canon EOS 6D"/>
+            <guid isPermaLink="false">slides/Tucan8.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan9</title>
+            <link>slides/Tucan9.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan9.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan9.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Mon, 23 Jun 2014 18:31:59 +0200" cameraMake="Canon" cameraModel="Canon EOS 6D"/>
+            <guid isPermaLink="false">slides/Tucan9.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan10</title>
+            <link>slides/Tucan10.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan10.jpg" width="300" height="199"/>
+            <media:content type="image/jpeg" url="slides/Tucan10.jpg" width="1000" height="664"/>
+            <jalbum:exif originalDate="Mon, 10 Nov 2014 19:35:26 +0100" cameraMake="FUJIFILM" cameraModel="FinePix X100"/>
+            <guid isPermaLink="false">slides/Tucan10.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan14</title>
+            <link>slides/Tucan14.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan14.jpg" width="169" height="300"/>
+            <media:content type="image/jpeg" url="slides/Tucan14.jpg" width="422" height="750"/>
+            <guid isPermaLink="false">slides/Tucan14.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan16</title>
+            <link>slides/Tucan16.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan16.jpg" width="300" height="225"/>
+            <media:content type="image/jpeg" url="slides/Tucan16.jpg" width="960" height="720"/>
+            <guid isPermaLink="false">slides/Tucan16.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan21</title>
+            <link>slides/Tucan21.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan21.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan21.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan21.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan17</title>
+            <link>slides/Tucan17.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan17.jpg" width="225" height="300"/>
+            <media:content type="image/jpeg" url="slides/Tucan17.jpg" width="562" height="750"/>
+            <guid isPermaLink="false">slides/Tucan17.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan15</title>
+            <link>slides/Tucan15.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan15.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan15.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan15.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan13</title>
+            <link>slides/Tucan13.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan13.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan13.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan13.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan26</title>
+            <link>slides/Tucan26.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan26.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan26.jpg" width="960" height="639"/>
+            <guid isPermaLink="false">slides/Tucan26.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan18</title>
+            <link>slides/Tucan18.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan18.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan18.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan18.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan23</title>
+            <link>slides/Tucan23.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan23.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan23.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan23.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan24</title>
+            <link>slides/Tucan24.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan24.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan24.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan24.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan25</title>
+            <link>slides/Tucan25.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan25.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan25.jpg" width="960" height="640"/>
+            <guid isPermaLink="false">slides/Tucan25.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan19</title>
+            <link>slides/Tucan19.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan19.jpg" width="300" height="248"/>
+            <media:content type="image/jpeg" url="slides/Tucan19.jpg" width="909" height="750"/>
+            <guid isPermaLink="false">slides/Tucan19.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan7</title>
+            <link>slides/Tucan7.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan7.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan7.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Wed, 01 Apr 2015 17:24:24 +0200" cameraMake="Canon" cameraModel="Canon EOS 6D"/>
+            <guid isPermaLink="false">slides/Tucan7.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan2</title>
+            <link>slides/Tucan2.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan2.jpg" width="300" height="199"/>
+            <media:content type="image/jpeg" url="slides/Tucan2.jpg" width="1000" height="664"/>
+            <guid isPermaLink="false">slides/Tucan2.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan6</title>
+            <link>slides/Tucan6.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan6.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan6.jpg" width="1000" height="667"/>
+            <guid isPermaLink="false">slides/Tucan6.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan11</title>
+            <link>slides/Tucan11.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan11.jpg" width="300" height="199"/>
+            <media:content type="image/jpeg" url="slides/Tucan11.jpg" width="1000" height="664"/>
+            <jalbum:exif originalDate="Wed, 03 Dec 2014 18:59:05 +0100" cameraMake="FUJIFILM" cameraModel="FinePix X100"/>
+            <guid isPermaLink="false">slides/Tucan11.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan1</title>
+            <link>slides/Tucan1.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan1.jpg" width="199" height="300"/>
+            <media:content type="image/jpeg" url="slides/Tucan1.jpg" width="498" height="750"/>
+            <jalbum:exif originalDate="Sat, 27 Dec 2014 17:29:55 +0100" cameraMake="FUJIFILM" cameraModel="FinePix X100"/>
+            <guid isPermaLink="false">slides/Tucan1.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan0</title>
+            <link>slides/Tucan0.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan0.jpg" width="300" height="199"/>
+            <media:content type="image/jpeg" url="slides/Tucan0.jpg" width="1000" height="664"/>
+            <jalbum:exif originalDate="Fri, 28 Nov 2014 09:10:29 +0100" cameraMake="FUJIFILM" cameraModel="FinePix X100"/>
+            <guid isPermaLink="false">slides/Tucan0.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan</title>
+            <link>slides/Tucan.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan.jpg" width="300" height="199"/>
+            <media:content type="image/jpeg" url="slides/Tucan.jpg" width="1000" height="664"/>
+            <jalbum:exif originalDate="Mon, 10 Nov 2014 18:45:11 +0100" cameraMake="FUJIFILM" cameraModel="FinePix X100"/>
+            <guid isPermaLink="false">slides/Tucan.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan4</title>
+            <link>slides/Tucan4.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan4.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan4.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sun, 02 Nov 2014 18:25:44 +0100" cameraMake="Canon" cameraModel="Canon EOS 6D"/>
+            <guid isPermaLink="false">slides/Tucan4.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan5</title>
+            <link>slides/Tucan5.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan5.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan5.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sun, 02 Nov 2014 19:27:04 +0100" cameraMake="Canon" cameraModel="Canon EOS 6D"/>
+            <guid isPermaLink="false">slides/Tucan5.jpg</guid>
+        </item>
+        <item>
+            <title>Tucan3</title>
+            <link>slides/Tucan3.jpg</link>
+            <pubDate>Wed, 30 May 2018 22:17:11 +0200</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/Tucan3.jpg" width="300" height="200"/>
+            <media:content type="image/jpeg" url="slides/Tucan3.jpg" width="1000" height="667"/>
+            <jalbum:exif originalDate="Sun, 02 Nov 2014 18:18:42 +0100" cameraMake="Canon" cameraModel="Canon EOS 6D"/>
+            <guid isPermaLink="false">slides/Tucan3.jpg</guid>
+        </item>
+    </channel>
+</rss>
